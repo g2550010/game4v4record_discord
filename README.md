@@ -1,0 +1,2 @@
+# game4v4record_discord
+4v4ゲームのレート対戦管理bot
